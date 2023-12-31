@@ -1,0 +1,1 @@
+[{"id":"e6a49758.181c48","type":"function","z":"b647ba6.5bf6548","name":"","func":"msg.payload = {\n    \"message\": \"Request received successfully!\"\n}\nreturn msg;","outputs":1,"noerr":0,"initialize":"","finalize":"","x":380,"y":320,"wires":[["8cc92e9e.bf9df","966f52e8.4084f"]]}]
